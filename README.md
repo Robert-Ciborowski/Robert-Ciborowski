@@ -1,5 +1,5 @@
 ### Hi, I'm Robert! 👨‍💻
-I'm currently working on self-directed agent workforces.
+I'm currently working on self-directed agent workforces at [Chatforce](https://chatforceai.com).
 
 Check out my [sci-fi RPG](https://neozerogame.com).
 
