@@ -1,5 +1,5 @@
 ### Hi, I'm Robert! 👨‍💻
-I'm building you your own AI video game studio using AI agents: [Chatforce](https://chatforceai.com).
+I'm building you an AI video game studio made up of AI agents: [Chatforce](https://chatforceai.com).
 
 Check out my [sci-fi RPG](https://neozerogame.com).
 
